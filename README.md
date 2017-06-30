@@ -2,9 +2,9 @@
 
 ## Summary
 
-Inspired partly by my days as a [touring musician](https://open.spotify.com/artist/2umvffrPSrINnWYTrrJFAx?play=true&utm_source=open.spotify.com&utm_medium=open) and partly by [Spotify for Artists](https://artists.spotify.com/), I synthesized multiple data sources to uncover geo-targeted fan trends for touring artists. 
+Inspired partly by my days as a touring musician and partly by [Spotify for Artists](https://artists.spotify.com/), I synthesized multiple data sources to uncover geo-targeted fan trends for touring artists. 
 
-As a real-world test case, I used the Twitter API to acquire mentions for all bands on an independent record label called [XL Recordings](www.xlrecordings.com/), going back to the end of May 2017.  After cleaning up user profiles, I obtained latitude-longitude coordinates via the Google Maps API, and mapped tweets to an interactive dashboard using Python for Plotly. 
+As a real-world test case, I used the Twitter API to acquire mentions for all bands on an independent record label called [XL Recordings](http://www.xlrecordings.com/), going back to the end of May 2017.  After cleaning up user profiles, I obtained latitude-longitude coordinates via the Google Maps API, and mapped tweets to an interactive dashboard using Python for Plotly. 
 
 Finally, I overlaid [county population estimates](https://www.ers.usda.gov/data-products/county-level-data-sets/) to illustrate the fact that touring artists should capitalize on high user engagement in less-populated areas. 
 
