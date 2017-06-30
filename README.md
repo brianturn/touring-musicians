@@ -12,10 +12,10 @@ This was presented as my final passion project at Metis, a data science immersiv
 
 ## Repo Contents:
 
-IPython Notebooks 
-Final presentation
-Visualizations
-Interactive visualizations on Plotly here and here
+- IPython Notebooks 
+- Final presentation
+- Visualizations
+- Interactive visualizations on Plotly here and here
 
 ## Tools
 
